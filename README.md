@@ -21,6 +21,6 @@ Most of my work is hands-on: solo-built MERN products, automation tools for real
 - 📈 Deepening Python and data engineering skills, targeting data science/engineering internships at product companies
 - 💬 Always happy to discuss full-stack builds, AI-assisted development, or breaking into data roles
 
---
+-
 
 **Let's build something great together!** 🚀
